@@ -1,0 +1,203 @@
+{
+    "result": {
+        "data": {
+            "data_detail": [
+                {
+                    "currency_id": "USD",
+                    "mid_rate": "34.6217000"
+                },
+                {
+                    "currency_id": "GBP",
+                    "mid_rate": "43.4492000"
+                },
+                {
+                    "currency_id": "EUR",
+                    "mid_rate": "37.3017000"
+                },
+                {
+                    "currency_id": "JPY",
+                    "mid_rate": "24.8730000"
+                },
+                {
+                    "currency_id": "HKD",
+                    "mid_rate": "4.4201000"
+                },
+                {
+                    "currency_id": "MYR",
+                    "mid_rate": "7.5092000"
+                },
+                {
+                    "currency_id": "SGD",
+                    "mid_rate": "25.7863000"
+                },
+                {
+                    "currency_id": "BND",
+                    "mid_rate": "25.7875000"
+                },
+                {
+                    "currency_id": "PHP",
+                    "mid_rate": "0.6176000"
+                },
+                {
+                    "currency_id": "IDR",
+                    "mid_rate": "2.3343000"
+                },
+                {
+                    "currency_id": "INR",
+                    "mid_rate": "0.4216000"
+                },
+                {
+                    "currency_id": "CHF",
+                    "mid_rate": "38.4956000"
+                },
+                {
+                    "currency_id": "AUD",
+                    "mid_rate": "23.2182000"
+                },
+                {
+                    "currency_id": "NZD",
+                    "mid_rate": "21.0892000"
+                },
+                {
+                    "currency_id": "PKR",
+                    "mid_rate": "0.1206000"
+                },
+                {
+                    "currency_id": "CAD",
+                    "mid_rate": "25.9111000"
+                },
+                {
+                    "currency_id": "SEK",
+                    "mid_rate": "3.2021000"
+                },
+                {
+                    "currency_id": "DKK",
+                    "mid_rate": "5.0087000"
+                },
+                {
+                    "currency_id": "NOK",
+                    "mid_rate": "3.1789000"
+                },
+                {
+                    "currency_id": "CNY",
+                    "mid_rate": "4.8617000"
+                },
+                {
+                    "currency_id": "MXN",
+                    "mid_rate": "1.9924000"
+                },
+                {
+                    "currency_id": "ZAR",
+                    "mid_rate": "1.8374000"
+                },
+                {
+                    "currency_id": "MMK",
+                    "mid_rate": "0.0165000"
+                },
+                {
+                    "currency_id": "KRW",
+                    "mid_rate": "0.0267000"
+                },
+                {
+                    "currency_id": "TWD",
+                    "mid_rate": "1.1271000"
+                },
+                {
+                    "currency_id": "KWD",
+                    "mid_rate": "112.5908000"
+                },
+                {
+                    "currency_id": "SAR",
+                    "mid_rate": "9.2315000"
+                },
+                {
+                    "currency_id": "AED",
+                    "mid_rate": "9.4260000"
+                },
+                {
+                    "currency_id": "BDT",
+                    "mid_rate": "0.3198000"
+                },
+                {
+                    "currency_id": "CZK",
+                    "mid_rate": "1.5786000"
+                },
+                {
+                    "currency_id": "KHR",
+                    "mid_rate": "0.0083850"
+                },
+                {
+                    "currency_id": "KES",
+                    "mid_rate": "0.2487000"
+                },
+                {
+                    "currency_id": "LAK",
+                    "mid_rate": "0.0019190"
+                },
+                {
+                    "currency_id": "RUB",
+                    "mid_rate": "0.4222000"
+                },
+                {
+                    "currency_id": "VND",
+                    "mid_rate": "0.0014740"
+                },
+                {
+                    "currency_id": "EGP",
+                    "mid_rate": "1.1187000"
+                },
+                {
+                    "currency_id": "PLN",
+                    "mid_rate": "8.3462000"
+                },
+                {
+                    "currency_id": "LKR",
+                    "mid_rate": "0.1174000"
+                },
+                {
+                    "currency_id": "IQD",
+                    "mid_rate": "0.0265000"
+                },
+                {
+                    "currency_id": "BHD",
+                    "mid_rate": "91.8346000"
+                },
+                {
+                    "currency_id": "OMR",
+                    "mid_rate": "89.9264000"
+                },
+                {
+                    "currency_id": "JOD",
+                    "mid_rate": "48.8041000"
+                },
+                {
+                    "currency_id": "QAR",
+                    "mid_rate": "9.5010000"
+                },
+                {
+                    "currency_id": "MVR",
+                    "mid_rate": "2.2394000"
+                },
+                {
+                    "currency_id": "NPR",
+                    "mid_rate": "0.2621000"
+                },
+                {
+                    "currency_id": "PGK",
+                    "mid_rate": "9.7634000"
+                },
+                {
+                    "currency_id": "ILS",
+                    "mid_rate": "9.4844000"
+                },
+                {
+                    "currency_id": "HUF",
+                    "mid_rate": "0.1011000"
+                }
+            ],
+            "data_header": {
+                "last_updated": "2023-06-09"
+            }
+        }
+    }
+}
