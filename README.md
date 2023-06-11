@@ -18,7 +18,7 @@ strconv для преобразования строковых значений 
 time для работы со временем.
 Проект запускает веб-сервер на порту 8000, который предоставляет два HTTP-маршрута:
 
-/currency-rates для получения списка актуальных валютных курсов. (пример localhost:8000/currency-rates)
+/currency-rates для получения списка актуальных валютных курсов. (пример http://localhost:8000/currency-rates)
 /convert для конвертации суммы из одной валюты в другую. (пример http://localhost:8000/convert?fromCurrency=THB&toCurrency=RUB&amount=100)
 
 
